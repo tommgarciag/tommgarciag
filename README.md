@@ -1,20 +1,34 @@
 # Hola, soy Tomás 👋
 
-Desarrollador con experiencia previa en JavaScript, React y Java/Spring.
-Actualmente volviendo a retomar y actualizar mis habilidades full-stack.
+Soy desarrollador con base en JavaScript, React y Java/Spring.  
+Durante los últimos años trabajé con tecnologías industriales (iFIX + VBA) y ahora estoy actualizando y retomando mis habilidades full-stack.
 
-### 🔧 Tecnologías que estoy practicando
-- JavaScript (ES6+)
-- React
-- Java / Spring Boot
-- Git & GitHub
+---
 
-### 🚀 Proyectos recientes
-- Mini Task Manager (JS puro)
-- …
+## 🚀 Objetivo actual
+Reconstruir fluidez en las tecnologías modernas que aprendí, mientras desarrollo proyectos chicos y concretos para reforzar fundamentos.
 
-### 🎯 Objetivo actual
-Reforzar fundamentos, crear proyectos chicos y retomar fluidez.
+---
+
+## 🧰 Tecnologías que estoy practicando
+- **JavaScript (ES6+)**
+- **React**
+- **Java / Spring Boot**
+- **Git & GitHub**
+- **HTML / CSS**
+
+---
+
+## 📌 Repositorios recientes
+- **Mini Task Manager (JavaScript)** – práctica de DOM, eventos y localStorage  
+- (Próximamente) **React Labs** – pequeños componentes y mini-apps  
+- (Próximamente) **Spring API Labs** – CRUD API, JPA, pruebas y endpoints REST
+
+---
+
+## 💬 Contacto
+Si querés ver en qué estoy trabajando o colaborar, bienvenido a explorar mis repos y dejar sugerencias.
+
 
 
 <!--
